@@ -1,0 +1,19 @@
+{
+	"pairs": [
+		{
+			"name":"pairA",
+			"markerPath":"markers/markerA.png",
+			"assetPath":"assets/assetA.png"
+		},
+		{
+			"name":"pairB",
+			"markerPath":"markers/markerB.png",
+			"assetPath":"assets/assetB.png"
+		},
+		{
+			"name":"pairC",
+			"markerPath":"markers/markerC.png",
+			"assetPath":"assets/assetC.png"
+		}
+	]
+}
